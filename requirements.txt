@@ -1,5 +1,9 @@
 streamlit
+transformers
+torch
 requests
+beautifulsoup4
+langchain
 huggingface_hub
 python-dotenv
-beautifulsoup4
+openai  # If we optionally integrate OpenAI later
